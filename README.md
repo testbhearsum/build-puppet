@@ -1,4 +1,3 @@
-
 [![Build Status](https://travis-ci.org/mozilla/build-puppet.png)](https://travis-ci.org/mozilla/build-puppet)
 
 License
