@@ -18,7 +18,7 @@ mohawk==0.3.4
 pyasn1==0.4.4
 pycrypto==2.6.1
 python-dateutil==2.7.3
-python-jose==3.0.0
+python-jose==3.0.1
 redo==1.6
 # see bug 1467067
 requests==2.10.0  # pyup: ignore
