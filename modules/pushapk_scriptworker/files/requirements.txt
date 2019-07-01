@@ -35,7 +35,7 @@ kiwisolver==1.1.0
 lxml==4.3.4
 matplotlib==3.1.0
 mohawk==1.0.0
-mozapkpublisher==0.7.2
+mozapkpublisher==3.1.0
 multidict==4.5.2
 networkx==2.1
 numpy==1.14.3
