@@ -18,7 +18,7 @@ json-e==3.0.0
 jsonschema==3.0.1
 mohawk==1.0.0
 multidict==4.5.2
-pexpect==4.6.0
+pexpect==4.7.0
 progressbar33==2.4
 ptyprocess==0.5.2
 pycparser==2.18
