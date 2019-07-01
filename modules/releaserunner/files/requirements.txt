@@ -42,7 +42,7 @@ requests-hawk==1.0.0
 simplejson==3.16.0
 singledispatch==3.4.0.3
 slugid==2.0.0
-sqlalchemy-migrate==0.11.0
+sqlalchemy-migrate==0.12.0
 # Held at this ancient version because we need encrypted enviroment variable support.
 taskcluster==7.0.1  # pyup: noupdate
 toposort==1.5
