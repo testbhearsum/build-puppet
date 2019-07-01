@@ -14,7 +14,7 @@ Twisted==12.3.0  # pyup: ignore
 arrow==0.14.2
 asn1crypto==0.24.0
 backports.functools_lru_cache==1.5
-bcrypt==3.1.4
+bcrypt==3.1.7
 buildbot==0.8.7p1  # pyup: ignore, puppet: nodownload
 certifi==2019.6.16
 cffi==1.11.5
