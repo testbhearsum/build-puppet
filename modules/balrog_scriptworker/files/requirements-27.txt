@@ -25,6 +25,6 @@ pyasn1==0.4.5
 pycparser==2.19
 python-dateutil==2.8.0
 requests==2.22.0
-toml==0.9.4
+toml==0.10.0
 towncrier==18.5.0
 urllib3==1.25.3
