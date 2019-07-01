@@ -17,7 +17,7 @@ chardet==3.0.4
 colorama==0.4.1
 cryptography==2.7
 Cycler==0.10.0
-decorator==4.3.0
+decorator==4.4.0
 defusedxml==0.6.0
 dictdiffer==0.8.0
 frozendict==1.2
