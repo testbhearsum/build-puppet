@@ -13,7 +13,7 @@ ecdsa==0.13.2
 functools32==3.2.3-2
 idna==2.8
 jsonschema==3.0.1
-kombu==4.2.1
+kombu==4.6.3
 mohawk==1.0.0
 pyasn1==0.4.5
 pycrypto==2.6.1
