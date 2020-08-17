@@ -22,7 +22,7 @@ packaging==20.4
 pexpect==4.8.0
 pip-api==0.0.14
 ptyprocess==0.6.0
-pyparsing==2.2.0
+pyparsing==2.4.7
 python-dateutil==2.8.1
 python-gnupg==0.4.6
 requests==2.24.0
