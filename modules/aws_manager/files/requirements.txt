@@ -45,7 +45,7 @@ idna==2.10
 asn1crypto==1.4.0
 bcrypt==3.2.0
 cffi==1.14.2
-pynacl==1.2.1
+pynacl==1.4.0
 urllib3==1.25.10
 chardet==3.0.4
 certifi==2020.6.20
