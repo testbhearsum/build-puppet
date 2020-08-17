@@ -49,5 +49,5 @@ pynacl==1.4.0
 urllib3==1.25.10
 chardet==3.0.4
 certifi==2020.6.20
-ipaddress==1.0.22
+ipaddress==1.0.23
 enum34==1.1.6
