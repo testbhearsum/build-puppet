@@ -40,5 +40,5 @@ tabulate==0.8.2
 taskcluster==37.0.0
 urllib3==1.25.10
 virtualenv==20.0.31
-yarl==1.2.4
+yarl==1.5.1
 pushsnapscript==0.2.1  # puppet: nodownload
