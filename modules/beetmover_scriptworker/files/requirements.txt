@@ -27,7 +27,7 @@ multidict==5.0.0
 pexpect==4.8.0
 ptyprocess==0.6.0
 python-dateutil==2.8.1
-python-gnupg==0.4.2
+python-gnupg==0.4.6
 redo==1.6
 requests==2.18.4
 s3transfer==0.1.13
