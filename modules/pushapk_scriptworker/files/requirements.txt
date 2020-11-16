@@ -10,7 +10,7 @@ arrow==0.17.0
 asn1crypto==1.4.0
 async_timeout==3.0.1
 attrs==20.3.0
-backcall==0.1.0
+backcall==0.2.0
 certifi==2020.11.8
 cffi==1.14.3
 chardet==3.0.4
