@@ -10,7 +10,7 @@ chardet==3.0.4
 defusedxml==0.6.0
 dictdiffer==0.8.1
 frozendict==1.2
-idna==2.6
+idna==2.10
 idna_ssl==1.0.1
 json-e==2.5.0
 jsonschema==2.6.0
