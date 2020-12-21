@@ -15,7 +15,7 @@ buildapi==0.3.25  # puppet: nodownload
 buildbot==0.8.4-pre-moz2  # pyup: ignore, puppet: nodownload
 decorator==4.4.2
 kombu==5.0.2
-Routes==2.4.1
+Routes==2.5.1
 SQLAlchemy==1.3.22
 Tempita==0.5.2
 # don't upgrade twisted because it doesn't work with our buildbot
