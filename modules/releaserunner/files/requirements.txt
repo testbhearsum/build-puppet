@@ -48,4 +48,4 @@ taskcluster==39.2.0  # pyup: noupdate
 toposort==1.5
 urllib3==1.26.2
 wsgiref==0.1.2
-zope.interface==4.5.0
+zope.interface==5.2.0
